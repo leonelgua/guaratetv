@@ -11,5 +11,5 @@ https://www.youtube.com/watch?v=a0RNU01eDi8
 https://www.youtube.com/watch?v=SU_Jw_EBHsA
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://tla.gob.ve/img/logo.png", TLA
-http://190.205.43.236:8080/hls/nginx.m3u8
+#EXTINF: -1 ,TVf
+https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
