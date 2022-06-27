@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1 ,TLT LA TELE TUYA
 https://teletplay.lateletuya.com/
+
+#EXTM3U
+#EXTINF: -1 ,TELEVEN
+http://www.televen.com/enlinea/
+
+#EXTM3U
+#EXTINF: -1 ,LA IGUANATV
+https://www.youtube.com/watch?v=SU_Jw_EBHsA
+
+#EXTM3U
+#EXTINF: -1 ,GLOBOVISION
+https://www.youtube.com/watch?v=ss6OEKrj0dg
+
+#EXTM3U
+#EXTINF: -1 ,RT
+https://actualidad.rt.com/en_vivo
