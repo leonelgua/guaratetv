@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=SU_Jw_EBHsA
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://tla.gob.ve/img/logo.png", TLA
-http://45.173.198.59:8080/hls/nginx3.m3u8
+http://190.205.43.236:8080/hls/nginx.m3u8
