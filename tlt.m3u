@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,TLT LA TELE TUYA
+#EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
 
 #EXTM3U
-#EXTINF: -1 ,TELEVEN
-http://www.televen.com/enlinea/
+#EXTINF: -1 ,VATICAN MEDIA LIVE
+https://www.youtube.com/watch?v=a0RNU01eDi8
 
 #EXTM3U
 #EXTINF: -1 ,LA IGUANATV
@@ -14,6 +14,3 @@ https://www.youtube.com/watch?v=SU_Jw_EBHsA
 #EXTINF: -1 ,GLOBOVISION
 https://www.youtube.com/watch?v=ss6OEKrj0dg
 
-#EXTM3U
-#EXTINF: -1 ,RT
-https://actualidad.rt.com/en_vivo
