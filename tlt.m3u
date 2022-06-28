@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=a0RNU01eDi8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves
-https://erCkqDzdGzpj.m3u8
+http:/192.99.69.47:443
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
@@ -19,5 +19,5 @@ https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.vtv.gob.ve/wp-content/uploads/2022/05/CABECERO-WEB-2022-NL-01-scaled.jpg" ,VTV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnLD7wfWXF5YnIXcPv_FckNCFp2A8zc4DFgVuPZlRChw)/dm/3/x828i6j/s/live-1.m3u8#cell=lsv4
