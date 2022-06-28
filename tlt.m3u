@@ -3,7 +3,7 @@
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
 
 #EXTM3U
-#EXTINF: -1 ,VATICAN MEDIA LIVE
+#EXTINF: -1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/va-vatican-media.jpg", VATICAN MEDIA LIVE
 https://www.youtube.com/watch?v=a0RNU01eDi8
 
 #EXTM3U
