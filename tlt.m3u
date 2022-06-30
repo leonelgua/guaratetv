@@ -23,5 +23,5 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgvl5LcwUjHUk-lHpc35pzdC8o_BkhDF4ExR88x1lyXC)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png" ,ValeTV
+#EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", ValeTV
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
