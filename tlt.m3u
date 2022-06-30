@@ -23,5 +23,5 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgvl5LcwUjHUk-lHpc35pzdC8o_BkhDF4ExR88x1lyXC)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cu-cubavision-internacional-2081-300x225.jpg" ,ValeTV
+#EXTINF: -1 ,ValeTV
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
