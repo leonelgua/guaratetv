@@ -28,4 +28,4 @@ https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png", Tele VID
-https://player-api.new.livestream.com/accounts/28238881/events/8574038/broadcasts/231856696.secure.m3u8?dw=14400&hdnea=st=1656699914~exp=1656701714~acl=/i/28238881_8574038_lsiimf2ewkyapt2y8r8_1@177535/*~hmac=c2179fc710e0ce7a943691b7aaf5a1e5c43f754519ffd064b99c6aea054dbb0e&token=62bf3d36_9c66c5f03c7d85b4ef96d37bb7e30ca498ae0b45
+https://playback2.akamaized.net/streams/28238881_8574038_lsif312nw6ddvqrs8nm_1/exp=1656891776~acl=%2f*~data=hdntl~hmac=171c75163c4d6aa362502bd346f9369e3f81816a7288cf2bba56fc3883fa4c6d/media/28238881_8574038_lsif312nw6ddvqrs8nm_1@198000pb.m3u8?dw=14400&ts=1656802800
