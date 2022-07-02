@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=a0RNU01eDi8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-Axn6oHqKdk4nxnmp4Acqpy18MKn6EjGc8WBjE86sAT)/dm/3/x89ys61/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4NVb5rtdU1LFyXhWi_-y4FfC4ZjRQ5eZNHHoEcEt0in)/dm/3/x89ys61/s/live-0.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
@@ -20,7 +20,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgvl5LcwUjHUk-lHpc35pzdC8o_BkhDF4ExR88x1lyXC)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpiXW6pqASesAUljwCbEIzHbvIhvNofFr7W-Mip-Zr2G)/dm/3/x828i6j/s/live-1.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", ValeTV
