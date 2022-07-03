@@ -39,7 +39,11 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_360.m3u8
 
 #EXTM3U
-#EXTINF: -1 -1 tvg-logo="http://deportv.gov.ar/img/logo-header.png", DEPORTV
+#EXTINF: -1 tvg-logo="http://deportv.gov.ar/img/logo-header.png", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w922605564.m3u8
+
+#EXTM3U
+#EXTINF: -1 
+https://playback2.akamaized.net/streams/28238881_8574038_lsif312nw6ddvqrs8nm_1/exp=1656901473~acl=%2f*~data=hdntl~hmac=ccb336226018be2cb69452cf0c380dd4d49e4c0627e72da996c9b85a31424f6c/media/28238881_8574038_lsif312nw6ddvqrs8nm_1@678000p.m3u8
 
 
