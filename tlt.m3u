@@ -33,3 +33,7 @@ https://live-ak.vimeocdn.com/exp=1656811386~acl=%2Ff91898c9-0d32-4030-8de3-eec04
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png", Cristovisión
 https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
+
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_360.m3u8
