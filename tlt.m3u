@@ -36,7 +36,7 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_360.m3u8
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://deportv.gov.ar/img/logo-header.png", DEPORTV
