@@ -28,8 +28,7 @@ https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
-https://youtu.be/XDJPzMznAjU
-
+<iframe width="320" height="180" src="https://www.youtube.com/embed/XDJPzMznAjU" title="FRANCE 24 Español – EN VIVO – Información internacional y noticias del mundo 24 horas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png", Cristovisión
 https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
