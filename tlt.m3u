@@ -3,12 +3,12 @@
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/va-vatican-media.jpg", VATICAN MEDIA LIVE
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vatican_Media_reduced.svg/768px-Vatican_Media_reduced.svg.png?20180121223840", VATICAN MEDIA LIVE
 https://www.youtube.com/watch?v=aOmjXejBwJc
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4NVb5rtdU1LFyXhWi_-y4FfC4ZjRQ5eZNHHoEcEt0in)/dm/3/x89ys61/s/live-0.m3u8
+https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v05CTnHVR4i2e3pMuXhRGbqh3GG4ByVQm9OvBFSPqzbw)/dm/3/x89ys61/s/live-2.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
@@ -20,7 +20,7 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpiXW6pqASesAUljwCbEIzHbvIhvNofFr7W-Mip-Zr2G)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhWxHKS25-GkOqNUsI9gmR2RpSa1wITQOsJGGZ_W1e_K)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", ValeTV
