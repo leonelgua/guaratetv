@@ -27,8 +27,8 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpiXW6pqASesAUljwC
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", CanelaTV
-https://stream.ads.ottera.tv/cl/e7fa7b51-1843-4269-b663-0cf1a4cecda8/1280x720_2300000_0_false.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
+https://youtu.be/XDJPzMznAjU
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png", Cristovisión
@@ -45,3 +45,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w922605564.m
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
+
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", CanelaTV
+https://stream.ads.ottera.tv/cl/e7fa7b51-1843-4269-b663-0cf1a4cecda8/1280x720_2300000_0_false.m3u8
+
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/366x206/itv_deportes_16x9_2.jpg", ITV deportes
+https://stream.ads.ottera.tv/cl/e6ad6622-b079-4156-84eb-16f91e9b06ad/1280x720_3070540_1_false.m3u8
+
+
+
