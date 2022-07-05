@@ -27,8 +27,8 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpiXW6pqASesAUljwC
 https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", Oromartv
-https://stream.ads.ottera.tv/cl/e7fa7b51-1843-4269-b663-0cf1a4cecda8/854x480_550000_3_false.m3u8
+#EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", CanelaTV
+https://stream.ads.ottera.tv/cl/e7fa7b51-1843-4269-b663-0cf1a4cecda8/1280x720_2300000_0_false.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png", Cristovisión
