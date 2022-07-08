@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=aOmjXejBwJc
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v05CTnHVR4i2e3pMuXhRGbqh3GG4ByVQm9OvBFSPqzbw)/dm/3/x89ys61/s/live-2.m3u8
+https://stream-03.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4uuvn74rG0pqV97oSgPL2VEbA3tftRuJ8Y1JFOcBBK3)/dm/3/x89ys61/s/live-2.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
@@ -20,11 +20,11 @@ http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhWxHKS25-GkOqNUsI9gmR2RpSa1wITQOsJGGZ_W1e_K)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkuUadQpypUkOhlkK9XISIQ8tcp9tg4K_V84Z5LImrnB)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", ValeTV
-https://vcp2.myplaytv.com/valetv/valetv/chunklist_w331653237.m3u8
+#EXTINF: -1 tvg-logo="https://trv.net.ve/wp-content/uploads/2022/03/logo_trv.png", TRV
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1433012460.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
@@ -39,8 +39,8 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://deportv.gov.ar/img/logo-header.png", DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w922605564.m3u8
+#EXTINF: -1 tvg-logo="https://olympics.com/images/static/b2p-images/logo_color.svg", Olympic Channel
+https://ott-dai-oc.akamaized.net/linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/f8ba8c9b-49ad-4ce9-9856-e4e3df838b47:BRU/variant/5334859c91c18107d434d5e8f7237203/bandwidth/hdntl=exp=1657394464~acl=%2f*~id=c65389f3-fdf6-4028-9fda-dc927be02402~data=hdntl~hmac=00fd15db3819e9394c1595c514f250183110e1c0f66627fd13c4dc8df9454351/803558.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
@@ -48,11 +48,11 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", CanelaTV
-https://stream.ads.ottera.tv/cl/e7fa7b51-1843-4269-b663-0cf1a4cecda8/1280x720_2300000_0_false.m3u8
+https://stream.ads.ottera.tv/cl/15435ddf-d841-406a-880c-55fbbb40c7c6/1280x720_2300000_0_false.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/366x206/itv_deportes_16x9_2.jpg", ITV deportes
-https://stream.ads.ottera.tv/cl/e6ad6622-b079-4156-84eb-16f91e9b06ad/1280x720_3070540_1_false.m3u8
+https://stream.ads.ottera.tv/cl/5a708582-a719-4e64-88ef-3040c2562c34/1280x720_3070540_1_false.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tgzbmwqmo9yjszbbypvg", SEO TV
