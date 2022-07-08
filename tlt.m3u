@@ -40,7 +40,7 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://olympics.com/images/static/b2p-images/logo_color.svg", Olympic Channel
-https://ott-dai-oc.akamaized.net/linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/f8ba8c9b-49ad-4ce9-9856-e4e3df838b47:BRU/variant/e7958c532ea12a6e26ab617a2b4e17ee/bandwidth/hdntl=exp=1657394464~acl=%2f*~id=c65389f3-fdf6-4028-9fda-dc927be02402~data=hdntl~hmac=00fd15db3819e9394c1595c514f250183110e1c0f66627fd13c4dc8df9454351/000.m3u8?
+https://ott-dai-oc.akamaized.net//linear/hls/pa/event/uL3iZD6rQoC4Bg8fWkD56g/stream/f8ba8c9b-49ad-4ce9-9856-e4e3df838b47:BRU/variant/95b162c9c47253c028842a5756ff658c/bandwidth/hdntl=exp=1657394464~acl=%2f*~id=c65389f3-fdf6-4028-9fda-dc927be02402~data=hdntl~hmac=00fd15db3819e9394c1595c514f250183110e1c0f66627fd13c4dc8df9454351/583558.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
