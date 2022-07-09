@@ -39,20 +39,20 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.reformatv.net/images/presets/preset1/logo.png", ReformaTV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w1393778715.m3u8
+#EXTINF: -1 tvg-logo="https://media.americateve.com/adjuntos/179/imagenes/000/428/0000428704.png", América TeVé
+https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1819443546.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png", CanelaTV
-https://stream.ads.ottera.tv/cl/15435ddf-d841-406a-880c-55fbbb40c7c6/1280x720_2300000_0_false.m3u8
+#EXTINF: -1 tvg-logo="http://vepacotv.com.ve/vepacotv.png", Vepaco TV
+https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w1882228778.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/366x206/itv_deportes_16x9_2.jpg", ITV deportes
-https://stream.ads.ottera.tv/cl/5a708582-a719-4e64-88ef-3040c2562c34/1280x720_3070540_1_false.m3u8
+#EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", ITV deportes
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tgzbmwqmo9yjszbbypvg", SEO TV
@@ -64,7 +64,7 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tgzbmwqmo9yjszbbypvg", SEO TV 3 Novelas
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+https://playback2.akamaized.net/streams/28238881_8574038_lsil4mrjvoit7mtqy7q_1/exp=1657484359~acl=%2f*~data=hdntl~hmac=53f12e917622adcb19711c0ec67342b06ad7659ce4b4735cbe99ad45cf2e5d29/media/28238881_8574038_lsil4mrjvoit7mtqy7q_1@678000p.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.zoomcanal.com.co/images/2022/logos/logo-mas-eslogan.png", zoomTV
