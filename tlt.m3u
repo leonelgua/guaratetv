@@ -51,7 +51,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m
 https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w1882228778.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", ITV deportes
+#EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 #EXTM3U
@@ -59,12 +59,12 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tgzbmwqmo9yjszbbypvg", SEO TV 2 Kids
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp", Seo Kid´s TV
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tgzbmwqmo9yjszbbypvg", SEO TV 3 Novelas
-https://playback2.akamaized.net/streams/28238881_8574038_lsil4mrjvoit7mtqy7q_1/exp=1657484359~acl=%2f*~data=hdntl~hmac=53f12e917622adcb19711c0ec67342b06ad7659ce4b4735cbe99ad45cf2e5d29/media/28238881_8574038_lsil4mrjvoit7mtqy7q_1@678000p.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp", Novelísima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/0/streamPlaylist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.zoomcanal.com.co/images/2022/logos/logo-mas-eslogan.png", zoomTV
