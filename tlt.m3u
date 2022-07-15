@@ -72,4 +72,4 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png", Tele VID
-https://playback2.akamaized.net/streams/28238881_8574038_lsi1jpa437pe5l1uslz_1/master.m3u8
+https://playback2.akamaized.net/streams/28238881_8574038_lsi1jpa437pe5l1uslz_1/master.m3u8?dw=14400&hdnts=exp=1657913672~acl=/streams/28238881_8574038_lsi1jpa437pe5l1uslz_1/master.m3u8*~hmac=2d1d4c83400e73b109b1f9d354c433b870c943756c9243aacb8e3bc5d0acbfb9
