@@ -8,12 +8,11 @@ https://www.youtube.com/watch?v=x3ez7JK8Usk&feature=emb_logo
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v34fAWEEivOnuZvq_gwh0XfAifLVKTCUMT-KkhyWAmNP)/dm/3/x89ys61/s/live-2.m3u8
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLosmSj-jjcWK5mRP3Ns7sf1mRN4jNqVOWEwNOdM3YmAj)/dm/3/x828i6j/s/live-3.m3u8
-
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu8cwACo39yxIc1o0ygNRPXxqCkbLnjOhUO2q0ZakCil)/dm/3/x828i6j/s/live-3.m3u8
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://tla.gob.ve/img/logo.png" ,TLA
 http://45.173.198.59:8080/hls/nginx3.m3u8
@@ -113,6 +112,12 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/2560px-El_Chavo_Animado_logo.svg.png", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="", teleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="", Tves
+https://ok.ru/video/3706499047140
 
 
