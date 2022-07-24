@@ -4,17 +4,7 @@ https://vcp4.myplaytv.com/tlt-2/tlt-28052022/chunklist_w761123907.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1200px-Logotipo_de_Venevisi%C3%B3n.svg.png" Venevision
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:24
-#EXT-X-MEDIA-SEQUENCE:152583
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:9.008,
-media_w89136147_152583.ts
-#EXTINF:12.012,
-media_w89136147_152584.ts
-#EXTINF:9.008,
-media_w89136147_152585.ts
+http://www.cisneros.tv/ch-estudio4/myStream/chunklist_w89136147.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
