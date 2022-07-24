@@ -86,7 +86,7 @@ https://live.presstv.ir/live/smil:live.smil/chunklist_w1184338562_b644100_slen.m
 http://vcpar.myplaytv.com/esportsmax/live/chunklist_w1612660300.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo=" ", HUMOR MAX
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EMCI4g9IMZBSH1WJdO66H8blUbYwtzqLDCf29eDmhnEv5afppLoZci-00SOLPnR01A=w600-h300-pc0xffffff-pd", HUMOR MAX
 http://vcpar.myplaytv.com/humormax/live/chunklist_w682690322.m3u8
 
 #EXTM3U
