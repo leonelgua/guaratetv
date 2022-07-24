@@ -15,7 +15,7 @@ https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu8cwACo39yxIc1o0y
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ipysvenezuela.org/wp-content/uploads/2015/04/TVS_Aragua.png", TVS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png", TVS
 https://vcp3.myplaytv.com/tvs/tvs/chunklist_w1508156185.m3u8
 
 #EXTM3U
