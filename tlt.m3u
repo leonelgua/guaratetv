@@ -15,7 +15,7 @@ https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu8cwACo39yxIc1o0y
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png", TVS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png", TVS El Super Canal del Centro
 https://vcp3.myplaytv.com/tvs/tvs/chunklist_w1508156185.m3u8
 
 #EXTM3U
