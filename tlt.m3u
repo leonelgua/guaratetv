@@ -3,6 +3,10 @@
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/chunklist_w761123907.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1200px-Logotipo_de_Venevisi%C3%B3n.svg.png" Venevision
+https://www.youtube.com/watch?v=x3ez7JK8Usk&feature=emb_logo
+
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
 https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v34fAWEEivOnuZvq_gwh0XfAifLVKTCUMT-KkhyWAmNP)/dm/3/x89ys61/s/live-2.m3u8
 
