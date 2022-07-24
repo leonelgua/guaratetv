@@ -39,6 +39,10 @@ https://vcp2.myplaytv.com/valetv/valetv/chunklist_w216442592.m3u8
 http://190.122.96.187:8888/http/006 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_400x400.jpg" teleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
 https://www.youtube.com/watch?v=XDJPzMznAjU
 
@@ -114,7 +118,7 @@ http://vcpar.myplaytv.com/fiestamax/live/chunklist_w213715566.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", EL CHAVO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/2560px-El_Chavo_Animado_logo.svg.png", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8 
 
 
