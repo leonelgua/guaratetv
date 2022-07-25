@@ -11,6 +11,10 @@ https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-x4vHNC28CxTl7Lxb
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLu8cwACo39yxIc1o0ygNRPXxqCkbLnjOhUO2q0ZakCil)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
+http://wwz.cisneros.tv/ch-estudio4/myStream/chunklist_w171169285.m3u8
+
+#EXTM3U
 #EXTINF: -1 tvg-logo="http://tla.gob.ve/img/logo.png" ,TLA
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
@@ -53,10 +57,6 @@ https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/chunklist_w19638142
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1529841677644570625/lSmfq581_400x400.jpg", Aguacate TV
 https://5790d294af2dc.streamlock.net/8186/8186/chunklist_w1950652252.m3u8
-
-#EXTM3U
-#EXTINF:-1 
-http://wwz.cisneros.tv/ch-estudio4/myStream/chunklist_w171169285.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
