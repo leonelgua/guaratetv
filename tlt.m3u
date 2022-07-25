@@ -66,6 +66,10 @@ EXTM3U
 #EXTINF:-1 tvg-logo="https://noticiasdeleste.com/wp-content/uploads/2021/04/default.jpg", RT
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
+EXTM3U
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/15705485_401.jpg", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Hispan TV
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1184338562_b644100_slen.m3u8 
@@ -92,7 +96,7 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png", ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_1080p/chunks.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
@@ -126,7 +130,7 @@ http://vcpar.myplaytv.com/humormax/live/chunklist_w682690322.m3u8
 http://vcpar.myplaytv.com/fiestamax/live/chunklist_w213715566.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FudGluYXR2LmNvbHRlbF9zY3JlZW5fMF8xNjUzMDMxMDEyXzAwOA/screen-0.jpg?fakeurl=1&type=.jpg", CANTINA TV
+#EXTINF:-1 tvg-logo="http://www.cantinatv.com/cantinatv.png", CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 
 #EXTM3U
@@ -137,8 +141,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-EXTM3U
-#EXTINF:-1 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
 
 
