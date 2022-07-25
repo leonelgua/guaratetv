@@ -96,7 +96,7 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png", ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_720p/chunks.m3u8
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_480p/chunks.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
