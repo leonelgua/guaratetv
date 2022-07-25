@@ -62,6 +62,10 @@ https://5790d294af2dc.streamlock.net/8186/8186/chunklist_w1950652252.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France24
 https://www.youtube.com/watch?v=XDJPzMznAjU
 
+EXTM3U
+#EXTINF:-1 tvg-logo="https://noticiasdeleste.com/wp-content/uploads/2021/04/default.jpg", RT
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Hispan TV
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1184338562_b644100_slen.m3u8 
@@ -133,5 +137,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
+EXTM3U
+#EXTINF:-1 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
 
