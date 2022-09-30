@@ -1,4 +1,4 @@
-Bu#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
 https://vcp4.myplaytv.com/tlt-2/tlt-28052022/chunklist_w761123907.m3u8
 
@@ -141,4 +141,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-https://list.iptvcat.com/my_list/s/e5910b1e4d6f1c9c5f82d92d289dde1a.m3u8
+#EXTM3U
+#EXTINF:-1
+https://list.iptvcat.com/my_list/s/1120e0fb03d795202b7c7f879baa6e3c.m3u8
