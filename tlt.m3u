@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
-https://vcp4.myplaytv.com/tlt-2/tlt-28052022/chunklist_w761123907.m3u8
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/chunklist_w1651362645.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
@@ -44,7 +44,7 @@ https://vcp.myplaytv.com/coll/coll/chunklist_w1084890257.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", VALETV
-https://vcp2.myplaytv.com/valetv/valetv/chunklist_w1258708473.m3u8
+https://vcp2.myplaytv.com/valetv/valetv/chunklist_w752897424.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", VE PLUS
@@ -76,7 +76,7 @@ https://live.presstv.ir/live/smil:live.smil/chunklist_w1184338562_b644100_slen.m
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="", teleSUR
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnc__814Ly0-jRmFCPjN1Semz-3apmSrJPaq1BB3StjS)/dm/3/x82ug5r/s/live-1.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
