@@ -140,3 +140,7 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
 https://list.iptvcat.com/my_list/s/995fc845cfda6d6c223e65364d5b511f.m3u8
+
+#EXTM3U
+#EXTINF:-1 
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99127
