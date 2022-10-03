@@ -4,11 +4,11 @@ https://vcp4.myplaytv.com/xtlt/xtlt.stream/chunklist_w1651362645.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-x4vHNC28CxTl7LxbkVbI4C5efwNjn7spwlLBUxuA7L)/dm/3/x89ys61/s/live-2.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72243
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-https://list.iptvcat.com/my_list/s/e0b783c9dc766af99d80ceaedb94571e.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72248
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
@@ -76,7 +76,7 @@ https://live.presstv.ir/live/smil:live.smil/chunklist_w1184338562_b644100_slen.m
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="", teleSUR
-https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/100184
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
@@ -142,5 +142,13 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 https://list.iptvcat.com/my_list/s/995fc845cfda6d6c223e65364d5b511f.m3u8
 
 #EXTM3U
-#EXTINF:-1 
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99127
+#EXTINF:-1 DIRECTV 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99578
+
+#EXTM3U
+#EXTINF:-1 DIRECTV 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72218
+
+#EXTM3U
+#EXTINF:-1 DIRECTV+
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99037
