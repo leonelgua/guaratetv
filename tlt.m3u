@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
-https://vcp4.myplaytv.com/xtlt/xtlt.stream/chunklist_w1651362645.m3u8
+https://vcp4.myplaytv.com//tlt-oct22/xtream.stream/chunklist_w2037120817.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
@@ -171,4 +171,4 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/191677
 
 #EXTM3U
 #EXTINF:-1 ,VALE TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72252
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8
