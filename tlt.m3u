@@ -31,8 +31,12 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1433012460.m3u8
 https://vcp.myplaytv.com/canali/canali/chunklist_w2120220311.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://vepacotv.com.ve/vepacotv.png", Vepaco TV
-https://vcp3.myplaytv.com/tvepaco/tvepaco/chunklist_w1882228778.m3u8
+#EXTINF: -1 tvg-logo="https://vepaco.tv/wp-content/uploads/2022/09/logovepacotv_mediano.png", Vepaco TV
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA TV
+TVhttps://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
@@ -147,27 +151,27 @@ https://list.iptvcat.com/my_list/s/995fc845cfda6d6c223e65364d5b511f.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72204
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99038
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK-IF5LGkdlRx7_wJLNBru1SYDsZViSOtXU0fqxgpE9/ts
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV+
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99037
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMRZlqnWwo9FPomHv2H_Oek/ts
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV e1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254266
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV e2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117871
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tyc.sports.us.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV e3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117872
+#EXTINF:-1 ,DIRECTV e4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/uni.deportes.us.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,VALE TV
