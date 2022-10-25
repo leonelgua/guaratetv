@@ -99,6 +99,10 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_480p/chunks.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png", Tele VID
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
 
@@ -166,9 +170,5 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117871
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/117872
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV e4
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/191677
-
-#EXTM3U
 #EXTINF:-1 ,VALE TV
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/televidtvlive/dvrlive-1500/chunklist.m3u8
