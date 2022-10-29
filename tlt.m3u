@@ -39,7 +39,7 @@ https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png", BTA TV
-TVhttps://cloud.streamingconnect.tv/hls/bta/bta.m3u8
+https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
