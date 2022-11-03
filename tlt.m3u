@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
-https://vcp4.myplaytv.com//tlt-oct22/xtream.stream/chunklist_w2037120817.m3u8
+https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/chunklist_w445105430.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
@@ -83,7 +83,7 @@ https://live1.presstv.ir/live/hispan_360p/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="", teleSUR
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72254
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
@@ -104,10 +104,11 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png", ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_480p/chunks.m3u8
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png", Tele VID
-https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8
+https://liveingesta319.cdnmedia.tv/televidtvlive/dvrlive-900/chunklist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.ewtn.com/assets/ewtn-logo-439440dedf30db64b4d66bf1cf4826ea3146099c9db5f2e05b2b24c9407f4139.png", EWTN
