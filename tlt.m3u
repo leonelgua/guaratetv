@@ -103,7 +103,6 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png", ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_480p/chunks.m3u8
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
 
 #EXTM3U
