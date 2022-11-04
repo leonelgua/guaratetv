@@ -29,6 +29,7 @@ https://vcp3.myplaytv.com/trv/trv/chunklist_w1433012460.m3u8
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://canal11delzulia.com/imagenes/once.png", Canal 11 del Zulia
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIyMzE2ZGNlOWVmNDU1YzQ5NzE5NGRkNDg4NTk5NTQyNCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNjY3MTExNzE1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.i4RebEmLDvOm6iphJJEUnX1ogyESUXxoYEPhFdVMhOH694GKIWcGkoQLM2a6JMP08BWVAQHcwuMswv1rNb1wqTZ7p87dOUINtiZ6jPRIf_N2YddxyZ-qReInz6eBkDVIE1STChedDSLTM0yIcHzn1HtQppLoP1Cgs4FhGz6uXDS2ecloFKx2L590ERZgTf7-YRha1ym3SqymEa1-Wj1qmg9EsPwPdCOMV4kN9Mp4gbZAxa-iDtKBBA6YxkafsMkfNv60NyWzjgm44qwXu0COjJhZSfOAUC-e0sjT0EEqeVkLuBuBA3F-0sBH9mE1-B-H0LKbHwXKaqLjyV8sPQJvNw/manifest/video.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Canal_i.png", CANAL i
 https://vcp.myplaytv.com/canali/canali/chunklist_w2120220311.m3u8
@@ -145,9 +146,8 @@ http://vcpar.myplaytv.com/fiestamax/live/chunklist_w213715566.m3u8
 https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/2560px-El_Chavo_Animado_logo.svg.png", EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8 
-
+#EXTINF:-1 tvg-logo="https://tc.grupotelemicro.com/wp-content/uploads/2021/09/logop01.png", Telecentro RD
+https://playback.akamaized.net/streams/27456795_10501048_lsiyimh7duv3hmwd7qv_1/media/27456795_10501048_lsiyimh7duv3hmwd7qv_1@2756000p.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
 https://list.iptvcat.com/my_list/s/995fc845cfda6d6c223e65364d5b511f.m3u8
