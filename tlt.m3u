@@ -44,7 +44,7 @@ https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
-https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+https://vp01-tlv42drm.delivery.fuugo.com/ngrp:vp01-Televen-FreeDRM-e69788fd_all/chunk_ctvideo_cfm4s_ridp0va0br500000_cinit_mpd.m4s
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.simple.com.ve/wp-content/uploads/2022/06/showven.png", ShowVen
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=aOmjXejBwJc
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
-https://cdn01.yowi.tv/KPFPGJU8A6/live-600.m3u8
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png", Cristovisión
