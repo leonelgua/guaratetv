@@ -150,8 +150,8 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 https://stream-04.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSpH86HNr3vqF-FtFuUc8HWI1vUVinKN4dfMMKJBQfU-B)/dm/3/x8ixzmf/s/live-0.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png", CGTN ESPAÑOL
-https://list.iptvcat.com/my_list/s/995fc845cfda6d6c223e65364d5b511f.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
+https://stream-04.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSpH86HNr3vqF-FtFuUc8HWI1vUVinKN4dfMMKJBQfU-B)/dm/3/x8ixzmf/s/live-4.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV 1
