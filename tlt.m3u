@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://teletplay.lateletuya.com/Logo-TLT-Amarillo.png", TLT LA TELE TUYA
-https://vcp4.myplaytv.com/tlt-ve/tlt-2023.stream/chunklist_w812024164.m3u8
+https://vcp4.myplaytv.com/tlt-ve/tlt-2023.stream/playlist.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tvesmobile.png" ,Tves Sonrie Contigo
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72243
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1024px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,VTV Canal 8
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/72248
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoiLS2kgMY1AHTGwV9uDbc1xbNOY8ci5L7vt3anz-RZB)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
@@ -43,12 +43,20 @@ https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 
 #EXTM3U
-#EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
-https://vp01-tlv42drm.delivery.fuugo.com/ngrp:vp01-Televen-FreeDRM-e69788fd_all/chunk_ctvideo_cfm4s_ridp0va0br500000_cinit_mpd.m4s
+#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/jS5ZpD_XyWo_7yKPkRYbJ9OvNE4P1KFuEfP93Nexj2-cIeTsI1mDFPnnONXrMIilfJc=w240-h480-rw", Oxigeno
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1871109182.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.panavision.tv/panavisiontv.png", Panavisión TV
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w461175782.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.simple.com.ve/wp-content/uploads/2022/06/showven.png", ShowVen
 https://vcp.myplaytv.com/coll/coll/chunklist_w1084890257.m3u8
+
+#EXTM3U
+#EXTINF: -1 tvg-logo="http://www.televen.com/wp-content/uploads/2019/07/logo-televen-top.png", Televen
+https://vp01-tlv42drm.delivery.fuugo.com/ngrp:vp01-Televen-FreeDRM-e69788fd_all/chunk_ctvideo_cfm4s_ridp0va0br500000_cinit_mpd.m4s
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="http://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png", VALETV
@@ -83,16 +91,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/800px-TeleSUR-Logo.svg.png", teleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTM3U
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png", tve
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
-
-#EXTM3U
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vatican_Media_reduced.svg/768px-Vatican_Media_reduced.svg.png?20180121223840", VATICAN MEDIA LIVE
-https://www.youtube.com/watch?v=aOmjXejBwJc
+https://ztnr.rtve.es/ztnr/5190066.m3u8
 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/09/loop-TVF.gif?time=1656347265", TVFAMILIA
@@ -104,7 +104,7 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png", ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_720p/chunks.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://televid.tv/wp-content/uploads/2022/05/LOGO-TELE-VID-BLANCO-3.png", Tele VID
@@ -147,27 +147,27 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w92151454.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
-https://stream-03.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSsid8ANooOQg-weml4LspmBBUnA2395I6aKcY2n9jjEw)/dm/3/x8ixzmf/s/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSqQos3tQIi6TK-qwC4STFzaTrJuOWENV8qal2x-PKGm8)/dm/3/x8ixzmf/s/live-2.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png", VENEVISION
-https://stream-03.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSsid8ANooOQg-weml4LspmBBUnA2395I6aKcY2n9jjEw)/dm/3/x8ixzmf/s/live-4.m3u8
+https://stream-04.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSqQos3tQIi6TK-qwC4STFzaTrJuOWENV8qal2x-PKGm8)/dm/3/x8ixzmf/s/live-4.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV 1
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 , Antena 3
+https://list.iptvcat.com/my_list/s/1d323da8979382411441dbc41844aa81.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV 2
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK-IF5LGkdlRx7_wJLNBru1SYDsZViSOtXU0fqxgpE9/ts
+#EXTINF:-1 , De Pelicula
+https://list.iptvcat.com/my_list/s/8e17d8232ad2afc9a0a782b8bed3f535.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV+
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMRZlqnWwo9FPomHv2H_Oek/ts
+#EXTINF:-1 , Fox 1
+https://list.iptvcat.com/my_list/s/a0d5dd0b0fc49f583321ccfa735c7b21.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,DIRECTV e1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts
+#EXTINF:-1 , Fox 1
+https://list.iptvcat.com/my_list/s/a0d5dd0b0fc49f583321ccfa735c7b21.m3u8
 
 #EXTM3U
 #EXTINF:-1 ,DIRECTV e2
